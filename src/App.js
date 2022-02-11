@@ -12,6 +12,12 @@ function App() {
                             placeholder="Email"
                             autoFocus
                         />
+
+                        <input
+                            type="password"
+                            name="password"
+                            placeholder="Senha"
+                        />
                     </form>
                 </div>
             </main>
