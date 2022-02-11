@@ -20,3 +20,7 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.login form input {
+    margin-top: 10px;
+}
