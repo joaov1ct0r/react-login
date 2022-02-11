@@ -15,3 +15,8 @@ body {
     width: 355px;
     height: 320px;
 }
+
+.login form {
+    display: flex;
+    flex-direction: column;
+}
