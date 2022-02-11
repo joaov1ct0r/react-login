@@ -18,6 +18,8 @@ function App() {
                             name="password"
                             placeholder="Senha"
                         />
+
+                        <button type="submit">Login</button>
                     </form>
                 </div>
             </main>
