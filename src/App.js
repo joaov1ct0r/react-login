@@ -21,6 +21,10 @@ function App() {
 
                         <button type="submit">Login</button>
                     </form>
+                    <p>
+                        Ainda não é cadastrado ?
+                        <a href="http://localhost:3000">Cadastre-se</a>
+                    </p>
                 </div>
             </main>
         </div>
