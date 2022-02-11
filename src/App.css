@@ -11,6 +11,9 @@ body {
 }
 
 .login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: #181920;
     width: 355px;
     height: 320px;
