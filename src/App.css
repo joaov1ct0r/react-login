@@ -25,3 +25,7 @@ body {
 .login form input {
     margin-top: 10px;
 }
+
+.login form button {
+    margin-top: 10px;
+}
