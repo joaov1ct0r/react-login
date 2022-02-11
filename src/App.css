@@ -9,3 +9,9 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.login {
+    background-color: #181920;
+    width: 355px;
+    height: 320px;
+}
