@@ -5,7 +5,14 @@ function App() {
         <div className="App">
             <main className="login-container">
                 <div className="login">
-                    <form></form>
+                    <form>
+                        <input
+                            type="email"
+                            name="email"
+                            placeholder="Email"
+                            autoFocus
+                        />
+                    </form>
                 </div>
             </main>
         </div>
