@@ -1,14 +1,12 @@
 import './App.css';
 
-import Form from './components/Form';
-
 import Login from './components/Login';
 
 function App() {
     return (
         <div className="App">
             <main className="login-container">
-                <Form></Form>
+                <Login></Login>
             </main>
         </div>
     );
