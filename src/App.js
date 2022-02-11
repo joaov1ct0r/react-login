@@ -4,7 +4,9 @@ function App() {
     return (
         <div className="App">
             <main className="login-container">
-                <div className="login"></div>
+                <div className="login">
+                    <form></form>
+                </div>
             </main>
         </div>
     );
