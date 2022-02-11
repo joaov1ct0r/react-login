@@ -1,3 +1,5 @@
+import Form from './Form';
+
 function Login() {
     return (
         <div className="login">
