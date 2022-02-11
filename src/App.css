@@ -46,6 +46,12 @@ body {
     border-radius: 5px;
 }
 
+.login form button:hover {
+    cursor: pointer;
+    background-color: black;
+    transition: 0.9s;
+}
+
 .login p {
     color: white;
 }
